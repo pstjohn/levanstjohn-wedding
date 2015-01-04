@@ -38,7 +38,28 @@
     height: 300px;
 }
 
+
+#home_columns .col-md-4 .thumbnail {
+    height: 300px;
+}
+
+#home_columns h3 {
+    margin-top: 0px;
+}
+
 #footer a {
     color: white;
     text-decoration: underline;
 }
+
+.home_icon {
+    margin-top: 10px;
+    display: inline-block;
+    font-size: 100px;
+    line-height: 100px;
+    width: 100%;
+    text-align: center;
+    vertical-align: bottom;
+    color: #317eac;
+}
+
