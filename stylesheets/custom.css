@@ -10,7 +10,8 @@
 }
 
 #cursive {
-    font-family: cursive;
+    font-family: 'Great Vibes', cursive;
+    text-shadow: 4px 4px 4px #aaa;
 }
 
 #title {
