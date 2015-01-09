@@ -13,7 +13,14 @@
     font-family: 'Great Vibes', cursive;
     text-shadow: 4px 4px 4px #aaa;
     color: white;
+}
+
+#cursive h1 {
     font-size: 80px;
+}
+
+#cursive h2 {
+    font-size: 60px;
 }
 
 #title {
