@@ -6,21 +6,24 @@
     background-repeat: no-repeat;
     height: 400px;
     padding-right: 0px;
-    font-family: 'Great Vibes', cursive;
-    text-shadow: 4px 4px 4px #aaa;
-    color: white;
 }
 
 .jumbotron h1 {
-    font-size: 80px;
+    font-family: 'Great Vibes', cursive;
+    text-shadow: 4px 4px 4px #aaa;
+    color: white;
+    font-size: 75px;
 }
 
 .jumbotron h2 {
-    font-size: 60px;
+    font-family: 'Great Vibes', cursive;
+    text-shadow: 4px 4px 4px #aaa;
+    color: white;
+    font-size: 55px;
 }
 
 #title {
-    padding-top: 150px;
+    padding-top: 125px;
     padding-right: 0px;
 }
 
