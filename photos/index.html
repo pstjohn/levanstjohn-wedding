@@ -3,4 +3,12 @@ layout: default
 title: Photos
 ---
 
-Need to do some sort of gallery here.
+<!--Need to do some sort of gallery here.-->
+
+<h2>Some Pre-wedding photos, just for fun</h2>
+
+<div class="popup-gallery">
+  {% for i in (1..4) %}
+  <a href="pre_gallery/{{ i }}.jpg"><img src="{{site.baseurl}}/photos/pre_gallery/{{ i }}_t.jpg" width="75" height="75"></a>
+  {% endfor %}
+</div>
