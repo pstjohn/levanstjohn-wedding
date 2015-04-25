@@ -35,7 +35,8 @@ tried to only register for things we'll be able to easily move. Cash gifts can o
 Please address letters to:
 
 <div class="container address">
-<p>Katherine LeVan</p>
-<p>1818 19th Street Apt 110</p>
-<p>Boulder, CO 80302</p>
+<p>Attn: Katherine LeVan</p>
+<p>National Ecological Observatory Network</p>
+<p>1685 38th St #100</p>
+<p>Boulder, CO 80301</p>
 </div>
