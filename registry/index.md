@@ -33,6 +33,7 @@ Cash
 As noted above, since we don't quite know where we'll be living in August, we've
 tried to only register for things we'll be able to easily move. Cash gifts can of course be made in person, or by mail.<br/>
 Please address letters to:
+
 <div class="container address">
 <p>Katherine LeVan</p>
 <p>1818 19th Street Apt 110</p>
