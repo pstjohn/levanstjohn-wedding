@@ -83,3 +83,8 @@
     height: 300px;
     margin: -75px 0 0 -100px;
 }
+
+.address p {
+        font-weight: bold;
+        margin: 0px 0px 0px 50px;
+}
