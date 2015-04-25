@@ -26,7 +26,7 @@ Macy's
 ------
 The dish set we picked seems cheapest at
 [Macy's](http://www1.macys.com/registry/wedding/guest/?registryId=6366319). You
-can buy these pecies individually (~20-25 dollars each).
+can buy these pieces individually (~20-25 dollars each).
 
 Cash
 ----
