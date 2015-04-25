@@ -12,7 +12,7 @@ We'll both be more than happy with only the gift of your company!
 
 Since Katie and I are still figuring out where we will live together, we haven't
 registered for many larger items. We would certainly welcome financial
-assistance to help with the larger items: new bed, furnature, etc., but sadly
+assistance to help with the larger items: new bed, furniture, etc., but sadly
 would have no place to put them in the meantime!
 
 
@@ -35,6 +35,6 @@ tried to only register for things we'll be able to easily move. Cash gifts can o
 Please address letters to:
 <div class="container address">
 <p>Katherine LeVan</p>
-<p>Katie's Address line 1</p>
-<p>Katie's Address line 2</p>
+<p>1818 19th Street Apt 110</p>
+<p>Boulder, CO 80302</p>
 </div>
