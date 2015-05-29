@@ -24,9 +24,7 @@ We've registered for a few household items at
 
 Macy's
 ------
-The dish set we picked seems cheapest at
-[Macy's](http://www1.macys.com/registry/wedding/guest/?registryId=6366319). You
-can buy these pieces individually (~20-25 dollars each).
+The dish set we picked is available at [Macy's](http://www1.macys.com/registry/wedding/guest/?registryId=6366319), where we've created an additional registry. Since the set is *a la carte*, each item is listed individually.
 
 Cash
 ----
