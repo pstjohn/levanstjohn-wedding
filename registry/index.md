@@ -15,6 +15,13 @@ registered for many larger items. We would certainly welcome financial
 assistance to help with the larger items: new bed, furniture, etc., but sadly
 would have no place to put them in the meantime!
 
+<div class="alert alert-info">
+We've recently moved! Our new address is: <br/>
+<div class="container address">
+<p>1440 8th St., Apt. 2101</p>
+<p>Golden, CO 80401</p>
+</div>
+</div>
 
 
 Amazon
@@ -33,8 +40,7 @@ tried to only register for things we'll be able to easily move. Cash gifts can o
 Please address letters to:
 
 <div class="container address">
-<p>Attn: Katherine LeVan</p>
-<p>National Ecological Observatory Network</p>
-<p>1685 38th St #100</p>
-<p>Boulder, CO 80301</p>
+<p>Katherine LeVan</p>
+<p>1440 8th St., Apt. 2101</p>
+<p>Golden, CO 80401</p>
 </div>
